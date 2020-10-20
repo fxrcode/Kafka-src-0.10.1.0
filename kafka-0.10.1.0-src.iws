@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76d7d96d-6190-4ad2-a154-8dcc3025fd39" name="Default Changelist" comment="" />
+    <list default="true" id="76d7d96d-6190-4ad2-a154-8dcc3025fd39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/Metadata.java" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/java/org/apache/kafka/clients/Metadata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-0.10.1.0-src.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-0.10.1.0-src.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-0.10.1.0-src.iws" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-0.10.1.0-src.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,23 +81,15 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="kafka-0.10.1.0-src" type="f1a62948:ProjectNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="kafka-0.10.1.0-src" type="f1a62948:ProjectNode" />
-                <item name="core" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="kafka-0.10.1.0-src" type="f1a62948:ProjectNode" />
-                <item name="core" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
             </expand>
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
@@ -129,6 +125,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -169,6 +166,17 @@
       <option name="PROGRAM_PARAMETERS" value="config.properties" />
       <method v="2">
         <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -219,7 +227,10 @@
       <option name="presentableId" value="Default" />
       <updated>1603086754349</updated>
       <workItem from="1603086755475" duration="2410000" />
-      <workItem from="1603090334340" duration="1213000" />
+      <workItem from="1603090334340" duration="3130000" />
+      <workItem from="1603255870124" duration="4721000" />
+      <workItem from="1603260827237" duration="917000" />
+      <workItem from="1603263814432" duration="5221000" />
     </task>
     <servers />
   </component>
@@ -236,21 +247,41 @@
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
     <state x="2208" y="209" width="871" height="660" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.3840.2133@0.27.3840.2133" timestamp="1603091170612" />
-    <state width="1561" height="445" key="GridCell.Tab.0.bottom" timestamp="1603091195915">
+    <state x="1324" y="824" width="356" height="659" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1603264451620">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="1561" height="445" key="GridCell.Tab.0.bottom/0.27.3840.2133@0.27.3840.2133" timestamp="1603091195915" />
-    <state width="1561" height="445" key="GridCell.Tab.0.center" timestamp="1603091195911">
+    <state x="1324" y="824" width="356" height="659" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.27.3840.2133@0.27.3840.2133" timestamp="1603264451620" />
+    <state width="1820" height="445" key="GridCell.Tab.0.bottom" timestamp="1603260781383">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="1561" height="445" key="GridCell.Tab.0.center/0.27.3840.2133@0.27.3840.2133" timestamp="1603091195911" />
-    <state width="1561" height="445" key="GridCell.Tab.0.left" timestamp="1603091195910">
+    <state width="1820" height="445" key="GridCell.Tab.0.bottom/0.27.3840.2133@0.27.3840.2133" timestamp="1603260781383" />
+    <state width="1820" height="445" key="GridCell.Tab.0.center" timestamp="1603260781379">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="1561" height="445" key="GridCell.Tab.0.left/0.27.3840.2133@0.27.3840.2133" timestamp="1603091195910" />
-    <state width="1561" height="445" key="GridCell.Tab.0.right" timestamp="1603091195913">
+    <state width="1820" height="445" key="GridCell.Tab.0.center/0.27.3840.2133@0.27.3840.2133" timestamp="1603260781379" />
+    <state width="1820" height="445" key="GridCell.Tab.0.left" timestamp="1603260781376">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="1561" height="445" key="GridCell.Tab.0.right/0.27.3840.2133@0.27.3840.2133" timestamp="1603091195913" />
+    <state width="1820" height="445" key="GridCell.Tab.0.left/0.27.3840.2133@0.27.3840.2133" timestamp="1603260781376" />
+    <state width="1820" height="445" key="GridCell.Tab.0.right" timestamp="1603260781381">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="1820" height="445" key="GridCell.Tab.0.right/0.27.3840.2133@0.27.3840.2133" timestamp="1603260781381" />
+    <state x="2056" y="1158" width="994" height="737" key="SettingsEditor" timestamp="1603264576402">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="2056" y="1158" width="994" height="737" key="SettingsEditor/0.27.3840.2133@0.27.3840.2133" timestamp="1603264576402" />
+    <state x="1347" y="840" width="549" height="524" key="StructurePopup" timestamp="1603266421982">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="1347" y="840" width="549" height="524" key="StructurePopup/0.27.3840.2133@0.27.3840.2133" timestamp="1603266421982" />
+    <state x="2144" y="1011" width="622" height="512" key="find.popup" timestamp="1603266509352">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="2144" y="1011" width="622" height="512" key="find.popup/0.27.3840.2133@0.27.3840.2133" timestamp="1603266509352" />
+    <state x="2182" y="783" width="672" height="678" key="search.everywhere.popup" timestamp="1603266476328">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="2182" y="783" width="672" height="678" key="search.everywhere.popup/0.27.3840.2133@0.27.3840.2133" timestamp="1603266476328" />
   </component>
 </project>
